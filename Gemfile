@@ -7,3 +7,4 @@ gem "jekyll"
 gem "webrick"
 gem "jekyll-watch"
 gem "github-pages", group: :jekyll_plugins
+gem "jekyll-theme-cayman"
