@@ -2,3 +2,9 @@
   link: /
 - name: Test
   link: /test.html
+- name: CASIA final project
+  link: /casia-kwfongab.html
+- name: Stat ML final project
+  link: /statml-shchanai-kwfongab.html
+- name: About me
+  link: /about.html
